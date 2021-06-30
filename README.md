@@ -9,4 +9,4 @@
 - Instagram : [@InsanePhin](https://www.instagram.com/insanephin/)
 
 #
-![InsanePhin's Stats](https://github-readme-stats.vercel.app/api?username=InsanePhin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![InsanePhin's Stats](https://github-readme-stats.vercel.app/api?username=InsanePhin&show_icons=true&theme=dark&include_all_commits=false&count_private=true)
