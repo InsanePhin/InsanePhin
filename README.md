@@ -1,17 +1,17 @@
 # 👋 Hello! thanks for watching this profile!
 
-## and...
+## 🤨 and...
 
-### What should i write this file?
+### 🤔 What should i write this file?
 
-idk
+☹ idk
 
-okay
+😐 okay
 
-see my stats
+😁 see my stats
 
 #
 ![InsanePhin's Stats](https://github-readme-stats.vercel.app/api?username=InsanePhin&show_icons=true&theme=dark&include_all_commits=false&count_private=true)
 #
 
-bye
+👋 bye
