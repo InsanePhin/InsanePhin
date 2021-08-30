@@ -1,8 +1,6 @@
 # 
 <h1 align="center">
-  <a align="center" href="https://git.io/typing-svg">
-    HI
-  </a>
+HI
 </h1>
 
 <p align="center">
